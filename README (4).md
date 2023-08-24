@@ -1,25 +1,29 @@
 
-## MEU ESPAÇO PESSOAL ##
+## !MEU ESPAÇO PESSOAL! ##
 
 
 
-## Quem eu sou:
-
-Ola!!! Meu nome é Robson, estudo no Instituto Federal do Tocantins - IFTO e estou no caminho para me formar na area da tecnologia.
-Sou inteligente, empolgado, carismático, carinhoso, gentil, amo meus amigos e me divertir com eles. 
+## Quem eu sou: ##
+empolgado, carismático, carinhoso, gentil, amo meus amigos e me divertir com eles. 
 Eu gosto de assistir meus animes, desenhos animados, jogar meus jogos predilétos e amo o mundo pokemon.
 
+Ola!!! Meu nome é Robson, estudo no Instituto Federal do Tocantins - IFTO e estou no caminho para me formar na area da tecnologia.
+Sou inteligente, 
 
 
 
-## Meus gostos 
+## Meus gostos ##
+
 POKEMON
+
 ![App Screenshot](https://i.pinimg.com/564x/7d/14/d9/7d14d945f33393ac9a1d694dafb45522.jpg)
 
 JOGOS 
+
 ![App Screenshot](https://i.pinimg.com/564x/31/cd/a1/31cda1d08562bd3d148294d0be711760.jpg)
 
 FILMES
+
 ![App Screenshot](https://i.pinimg.com/236x/50/28/2e/50282e4217e35bb3612aacb3ca2ec2f4.jpg)
 
 
